@@ -32,8 +32,8 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
    <img style="height:50px" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="figma"/>
 </div>
 
-
-
+## Current Stats: 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaydhawale000&count_private=true&theme=transparent)
 
 <!--
 **samaydhawale000/samaydhawale000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

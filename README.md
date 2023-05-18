@@ -4,7 +4,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 
 ## My Projects 📑
 - downhill (individual Project) : [downhill.netlify.app](downhill.netlify.app)
-- Stylio.com (collaborative Project) : [stylio.netlify.app/index.html](stylio.netlify.app/index.html)
+- Stylio.com (collaborative Project) : [stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
 - SD Pharma (individual Project) : [zingy-dango-3195f4.netlify.app/](zingy-dango-3195f4.netlify.app/)
 
 

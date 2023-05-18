@@ -17,17 +17,17 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 ## Languages and Tools 🔠
 
 <div style = "display:flex">
-  <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60"  src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-   <img style="height=60" src="" alt=""/>
-  <img style="height=60" src="" alt=""/>
-  <img style="height=60" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
+  <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px"  src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+   <img style="height=60px" src="" alt=""/>
+  <img style="height=60px" src="" alt=""/>
+  <img style="height=60px" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
 </div>
 
 

@@ -37,7 +37,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 </div>
 
 ## Current Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samaydhawale000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samaydhawale000&theme=dark)](https://git.io/streak-stats)
 
 
 <!--

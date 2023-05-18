@@ -7,6 +7,10 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 - Stylio.com (collaborative Project) : [stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
 - SD Pharma (individual Project) : [zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
 
+## Contact Me 🤝
+- LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/)
+- Email : samaydhawale1@gmail.com
+
 
 
 

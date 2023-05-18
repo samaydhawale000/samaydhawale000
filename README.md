@@ -3,9 +3,9 @@
 A skilled software developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving,exceptional UX/UI skills, and a passion for innovation. Avaluable asset to projects with strong teamwork abilities.
 
 ## My Projects 📑
-- downhill (individual Project) : [downhill.netlify.app](downhill.netlify.app)
+- downhill (individual Project) : [downhill.netlify.app](https://downhill.netlify.app)
 - Stylio.com (collaborative Project) : [stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
-- SD Pharma (individual Project) : [zingy-dango-3195f4.netlify.app/](zingy-dango-3195f4.netlify.app/)
+- SD Pharma (individual Project) : [zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
 
 
 

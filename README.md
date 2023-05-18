@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi there 👋 I am Samay Dhawale 👨‍💻
 
 A skilled software developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
@@ -33,7 +37,8 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 </div>
 
 ## Current Stats: 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samaydhawale000&count_private=true&theme=transparent)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samaydhawale000)](https://git.io/streak-stats)
+
 
 <!--
 **samaydhawale000/samaydhawale000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

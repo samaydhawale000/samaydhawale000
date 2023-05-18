@@ -3,7 +3,7 @@
 A skilled software developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
 
 ## My Projects 📑
-- downhill (Individual Project) : [https://downhill.netlify.app](https://downhill.netlify.app)
+- Downhill (Individual Project) : [https://downhill.netlify.app](https://downhill.netlify.app)
 - Stylio.com (Collaborative Project) : [https://stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
 - SD Pharma (Individual Project) : [https://zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
 
@@ -27,6 +27,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
    <img style="height:60px" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="expressJS"/>
    <img style="height:50px" src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git"/>
   <img style="height:60px" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
+  <img style="height:50px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="mongoDB"/>
   <img style="height:50px" src="https://i.imgur.com/EMykZb3.png" alt="Chakra"/>
    <img style="height:50px" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="figma"/>
 </div>

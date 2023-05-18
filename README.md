@@ -38,7 +38,9 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 
 ## Current Stats: 
 ![samaydhawale000's Stats](https://github-readme-stats.vercel.app/api?username=samaydhawale000&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ![samaydhawale000's Streak](https://github-readme-streak-stats.herokuapp.com/?user=samaydhawale000&theme=tokyonight&hide_border=false)
+
 ![samaydhawale000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samaydhawale000&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 

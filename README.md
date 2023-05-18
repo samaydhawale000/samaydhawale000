@@ -12,7 +12,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 - Email : samaydhawale1@gmail.com
 
 ## My Resume 📄
-- Resume Drive Link : [[zingy-dango-3195f4.netlify.app/](https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link)](https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link)
+- Resume Drive Link : [zingy-dango-3195f4.netlify.app/](https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link)
 
 
 

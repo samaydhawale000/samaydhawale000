@@ -10,7 +10,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 ## Contact Me 🤝
 - LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/)
 - Email : samaydhawale1@gmail.com
-![image](https://storyset.com/illustration/storyboard/amico#841F95FF&hide=&hide=false)
+![image](https://storyset.com/online)
 
 
 

@@ -14,7 +14,21 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 ## My Resume 📄
 - Resume Drive Link: https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link
 
+## Languages and Tools 🔠
 
+<div style = "display:flex">
+  <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60"  src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+   <img style="height=60" src="" alt=""/>
+  <img style="height=60" src="" alt=""/>
+  <img style="height=60" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
+</div>
 
 
 <!--

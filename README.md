@@ -17,18 +17,21 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 ## Languages and Tools 🔠
 
 <div style = "display:flex">
-  <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px"  src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-   <img style="height=60px" src="" alt=""/>
-  <img style="height=60px" src="" alt=""/>
-  <img style="height=60px" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
+  <img style="height:50px" src="https://brandeps.com/icon-download/G/Github-badge-icon-vector-01.svg" alt="gitHub"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="html"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="css"/>
+   <img style="height:60px"  src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react-router-dom"/>
+   <img style="height:50px" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-02.svg" alt="nodeJS"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
+   <img style="height:60px" src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="expressJS"/>
+   <img style="height:50px" src="https://brandeps.com/icon-download/G/Git-icon-vector-06.svg" alt="git"/>
+  <img style="height:60px" src="https://www.svgrepo.com/show/374144/typescript.svg" alt="typeScript"/>
+  <img style="height:50px" src="https://i.imgur.com/EMykZb3.png" alt="Chakra"/>
+   <img style="height:50px" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="figma"/>
 </div>
+
+
 
 
 <!--

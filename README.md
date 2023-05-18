@@ -1,8 +1,8 @@
-# Hi there 👋 I am Samay Dhawale
+# Hi there 👋 I am Samay Dhawale 👨‍💻
 
 A skilled software developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving,exceptional UX/UI skills, and a passion for innovation. Avaluable asset to projects with strong teamwork abilities.
 
-- 📫 How to reach me: samaydhawale1@gmail.com
+## My Projects 
 <!--
 **samaydhawale000/samaydhawale000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

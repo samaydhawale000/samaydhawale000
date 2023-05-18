@@ -8,9 +8,9 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 - SD Pharma (Individual Project) : [zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
 
 ## Contact Me 🤝
-- LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/)
+- LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/) ![image](https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png)
 - Email : samaydhawale1@gmail.com
-- ![image](https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png)
+
 
 
 

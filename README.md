@@ -4,18 +4,21 @@
 
 # Hi there 👋 I am Samay Dhawale 👨‍💻
 
+## About Me 🤓
 A skilled software developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
+
+- LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/) 
+- Email: samaydhawale1@gmail.com
+- Resume Drive Link: https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link
+- Portfolio Link :
 
 ## My Projects 📑
 - Downhill (Individual Project) : [https://downhill.netlify.app](https://downhill.netlify.app)
 - Stylio.com (Collaborative Project) : [https://stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
 - SD Pharma (Individual Project) : [https://zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
 
-## Contact Me 🤝
-- LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/) 
-- Email: samaydhawale1@gmail.com
-- Resume Drive Link: https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link
-- Portfolio Link :
+
+
 
 ## Languages and Tools 🔠
 

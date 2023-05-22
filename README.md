@@ -10,7 +10,7 @@ A skilled software developer with expertise in HTML, CSS, JavaScript, and the ME
 - LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/) 
 - Email: samaydhawale1@gmail.com
 - Resume Drive Link: https://drive.google.com/file/d/1nP4KlF_gIlH7TNM9eqmMQSR-MFDwKKXY/view?usp=share_link
-- Portfolio Link: [https://samaydhawale000.github.io](https://samaydhawale000.github.io)
+- Portfolio Link: [https://samaydhawale000.github.io](https://samaydhawale000.github.io/)
 
 
 ## My Projects 📑

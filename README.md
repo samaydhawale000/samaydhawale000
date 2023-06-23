@@ -5,7 +5,7 @@
 # Hi there 👋 I am Samay Dhawale 👨‍💻
 
 ## About Me 🙋‍♂️
-A Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
+A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and the MERN stack. Problem-solving, exceptional UX/UI skills, and a passion for innovation. A valuable asset to projects with strong teamwork abilities.
 
 - LinkedIn : [https://www.linkedin.com/in/samay-dhawale-a7a793221/](https://www.linkedin.com/in/samay-dhawale-a7a793221/) 
 - Email: samaydhawale1@gmail.com

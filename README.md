@@ -17,7 +17,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 - Tech Bazaar (Collaborative Project) : [https://techbazar-app.vercel.app/](https://techbazar-app.vercel.app/)
 - Downhill (Individual Project) : [https://downhill.netlify.app](https://downhill.netlify.app)
 - Stylio.com (Collaborative Project) : [https://stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
-- SD Pharma (Individual Project) : [https://zingy-dango-3195f4.netlify.app/](https://zingy-dango-3195f4.netlify.app/)
+- SD Pharma (Individual Project) : [https://zingy-dango-3195f4.netlify.app/](https://sd-pharma.netlify.app)
 
 
 

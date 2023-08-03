@@ -24,6 +24,9 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 ## Languages and Tools 🔠
 
+[![My Skills](https://skillicons.dev/icons?i=github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,git,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <div style = "display:flex">
   <img style="height:50px" src="https://brandeps.com/icon-download/G/Github-badge-icon-vector-01.svg" alt="gitHub"/>
    <img style="height:60px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="html"/>

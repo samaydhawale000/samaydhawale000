@@ -17,7 +17,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 - Downhill (Individual Project) : [https://downhill.netlify.app](https://downhill.netlify.app)
 - MusicMix (Collaborative Project) : [https://musicmix.netlify.app/](https://musicmix.netlify.app/)
 - Code Pulse (Collaborative Project) : [https://codepulseweb.netlify.app/](https://codepulseweb.netlify.app/)
-- Tech Bazaar (Collaborative Project) : [https://techbazar-app.vercel.app/](https://techbazar-app.vercel.app/)
+- Tech Bazaar (Collaborative Project) : [https://techbazar-app-v-sukumar.vercel.app/](https://techbazar-app-v-sukumar.vercel.app/)
 - Stylio.com (Collaborative Project) : [https://stylio.netlify.app/index.html](https://stylio.netlify.app/index.html)
 - SD Pharma (Individual Project) : [https://sd-pharma.netlify.app](https://sd-pharma.netlify.app)
 

@@ -24,7 +24,7 @@ A skilled Full Stack Web Developer with expertise in HTML, CSS, JavaScript, and 
 
 ## Languages and Tools 🔠
 
-[![My Skills](https://skillicons.dev/icons?i=github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,git,postman,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,html,css,javascript,react,redux,typescript,nodejs,express,mongodb,git,postman,mysql,figma,bootstrap,vscode&theme=light)](https://skillicons.dev)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
